@@ -20,6 +20,9 @@ import plotly.io as pio
 import pandas as pd
 from dash.exceptions import PreventUpdate
 
+#version of the github
+#version = 0.1.0 functional
+
 # Set up logging
 #log_filename = f"modbus_viewer_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
 logging.basicConfig(
